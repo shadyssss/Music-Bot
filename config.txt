@@ -1,6 +1,6 @@
 owner=516473846983950336
-prefix=!
-game=Break | !play
+prefix=0
+game=Break | 0play
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTkxMzgyMjI2NzY4MzYzNTQ3.XQzNBg.GaVTvy9xxSDH74WV1RftIJndkZA
