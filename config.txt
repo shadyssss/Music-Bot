@@ -1,4 +1,4 @@
-owner=516473846983950336
+owner=460813839051784202
 prefix=0
 game=Break | 0play
 stayinchannel=true
